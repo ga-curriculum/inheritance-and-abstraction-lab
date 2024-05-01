@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/inheritance-abstraction-lab.png)
 
 ## About
 
@@ -10,11 +10,11 @@ You decide what the actions and properties of each class will be.
 
 ## Prerequisites
 
-- tktk
+- Java Abstract Classes vs. Interfaces Module
 
 ## Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
+Estimated time to complete core lab exercise: **75 min**
 
 ## Content
 
@@ -22,8 +22,6 @@ Estimated time to complete core lab exercise: **tktk min**
 - [Exercise](./exercise/README.md)
 
 ## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
