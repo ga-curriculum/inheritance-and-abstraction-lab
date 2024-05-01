@@ -2,7 +2,11 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+This lab will provide you with more practice creating abstract classes, subclasses, and interfaces.
+
+You'll need to design a program that manages a school. The school has classrooms, and the classrooms have teachers and students assigned to them. Each classroom contains students in a single grade (i.e., first, second, third, and so on).
+
+You decide what the actions and properties of each class will be.
 
 ## Prerequisites
 
@@ -12,32 +16,10 @@ tktk Write a short but descriptive summary of the content in this module. Introd
 
 Estimated time to complete core lab exercise: **tktk min**
 
-## Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
-
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
-
-## Level Up
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
 
 ## Internal resources
 
