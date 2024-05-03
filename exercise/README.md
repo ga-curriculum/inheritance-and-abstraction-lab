@@ -4,8 +4,28 @@
 
 Requirements
 
-- At least one abstract class.
-- At least one interface.
-- At least three subclasses.
-- Each subclass must be unique from the others.
-- Bonus: Add extra classes, subclasses, or interfaces.
+- Create an abstract class called `Vehicle` with the following properties:
+  - `make` (string)
+  - `model` (string)
+  - `year` (number)
+  - `color` (string)
+  - `mileage` (number)
+  - `price` (number)
+  - `isRunning` (boolean)
+- Create interfaces called `Maintenance` with the following methods:
+  - `repair()`
+  - `oilChange()`
+- Create a subclass called `Car` that extends `Vehicle` and implements `Maintenance` with the following properties:
+  - `numDoors` (number)
+  - `numWheels` (number)
+  - `numSeats` (number)
+  - `isConvertible` (boolean)
+- Create a subclass called `Truck` that extends `Vehicle` and implements `Maintenance` with the following properties:
+  - `numDoors` (number)
+  - `numWheels` (number)
+  - `numSeats` (number)
+  - `hasTruckBed` (boolean)
+- Create a subclass called `Motorcycle` that extends `Vehicle` and implements `Maintenance` with the following properties:
+  - `numWheels` (number)
+  - `numSeats` (number)
+  - `hasSideCar` (boolean)
