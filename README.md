@@ -2,11 +2,7 @@
 
 ## About
 
-This lab will provide you with more practice creating abstract classes, subclasses, and interfaces.
-
-You'll need to design a program that manages a school. The school has classrooms, and the classrooms have teachers and students assigned to them. Each classroom contains students in a single grade (i.e., first, second, third, and so on).
-
-You decide what the actions and properties of each class will be.
+In this lab, you will practice creating abstract classes and interfaces to model a hierarchy of vehicles.
 
 ## Prerequisites
 
@@ -20,6 +16,10 @@ Estimated time to complete core lab exercise: **75 min**
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
+
+## Solution code
+
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/inheritance-and-abstraction-lab-solution)
 
 ## Internal resources
 
