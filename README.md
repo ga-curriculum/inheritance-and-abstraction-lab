@@ -1,5 +1,7 @@
 # ![[tktk Module Name]](./assets/inheritance-abstraction-lab.png)
 
+# THIS REPO IS DEPRECATED, BUT STILL IN USE BY IN-FLIGHT COHORTS. IT CAN BE DELETED AFTER APR 1, 2025. You are likely looking for [this](https://git.generalassemb.ly/modular-curriculum-all-courses/java-inheritance-and-abstraction-lab) repo instead.
+
 ## About
 
 In this lab, you will practice creating abstract classes and interfaces to model a hierarchy of vehicles.
